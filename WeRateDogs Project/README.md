@@ -32,20 +32,30 @@ I merged individual tables to one master table While trying to merge the individ
 
 #### Figure 1
 
+![My Image](images/fig1.png)
+
 #### Figure 2
+
+![My Image](images/fig2.png)
 
 2. I created a function that plots a group plot and passed the dog type feature(without the None Values) and the new ratings bin feature I created to it. Figure 3 which is the output of the group plot function shows that there's no relationship between ratings numerator feature and the dog_type feature.
 
 #### Figure 3
+
+![My Image](images/fig3.png)
 
 3. I used the pairplot function to check the relationship of some columns and found no relationship between ratings and length of text(I took the end range value from the display_text_range column to create this feature), however, there was a relationship between the favourite and retweet count column and the length of text column.
 4. From the pairplot I also noticed a positive relationship between retweet count and favourite count.
 
 #### Figure 4
 
+![My Image](images/fig4.png)
+
 5. From the timestamp feature, I got a date column which I then used to derive a year and month column. With these new features, I found that the year with the highest retweet and likes was the year 2016, as shown in Figure 5 below. However it was also the year with the highest number of tweets from the dog rates account, so this might be the reason for it's high retweet counts. I also found it interesting that the year 2017 was the year with the lowest number of tweets, but the number of likes that year was almost up to that of 2016.
 6. Filtering the data to investigate only the year 2016, I noticed that the month of July had the highest retweet count and the month of October had the highest likes in the year 2016.
 
 #### Figure 5
+
+![My Image](images/fig5.png)
 
 Most of my analysis work involved finding relationships and correlation, it is important to note that these correlations don't mean causation.
