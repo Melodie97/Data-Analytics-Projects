@@ -1,5 +1,17 @@
 ## WeRateDogs Twitter Project
 
+### Table of Contents
+- Background
+- Wrangling Efforts
+  - Data Gathering
+  - Assessing The data
+  - Cleaning the data
+- Insights gotten from the Dataset
+
+### Background
+This project was part of my course work while studing for my Udacity Data Analyst Nanodegree. The project involved me analyzing a twitter user's tweets - @WeRateDogs. We Rate Dogs is a twitter handle that rates pictures of dogs. The numerator of the rating can vary from 1 - any number, but the denomintor is always 10.
+The Analysis is to find out if a dog's rating is affected by any of it's features.
+
 ### Wrangling Efforts
 
 #### Data Gathering
