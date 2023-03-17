@@ -11,3 +11,6 @@ Some of the questions I wanted to answer while analyzing this dataset:
 - **Questions to Answer**: 
     - what factors can help determine if a patient will show up for their scheduled appointment
     - Are there any correlations between the other features?
+
+## Wrangling Efforts
+The data used for this project was relatively clean, and didn't require much wrangling effort. The data had no duplicates and no missing values.
