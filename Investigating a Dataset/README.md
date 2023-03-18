@@ -2,6 +2,8 @@
 
 ## Table of Contents
 - Background
+- Wrangling Efforts
+- Exploratory Analysis
 - Insights gotten from the Dataset
 
 ## Background
@@ -14,3 +16,4 @@ Some of the questions I wanted to answer while analyzing this dataset:
 
 ## Wrangling Efforts
 The data used for this project was relatively clean, and didn't require much wrangling effort. The data had no duplicates and no missing values.
+## Exploratory Analysis
